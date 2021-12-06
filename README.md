@@ -1,0 +1,2 @@
+# synoxd
+synox
